@@ -16,7 +16,7 @@ int main() {
     // Loop do bispo
     while (bispo <= 5) // Sistema de repetição do loop do bispo
     {
-        printf("Bispo se movimente uma casa direita, cima...\n"); // Impressão da mensagem para saber se o loop está sendo executado corretamente
+        printf("Bispo se movimente uma casa cima, direita...\n"); // Impressão da mensagem para saber se o loop está sendo executado corretamente
         bispo++; // Função de incremento para evitar loop infinito
     }
     
